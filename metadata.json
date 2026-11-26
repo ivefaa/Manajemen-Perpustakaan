@@ -1,0 +1,6 @@
+{
+  "name": "PustakaModern — Sistem Sirkulasi & Katalog Perpustakaan",
+  "description": "Dasbor administrasi sirkulasi, inventaris katalog buku, peminjaman atomik, pengembalian, dan rekonsiliasi denda perpustakaan PustakaModern V1.0.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
